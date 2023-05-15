@@ -1,10 +1,10 @@
 ## Bem-vindo(a) ao perfil Dev Jaque 😁
 
 <div>
-   <a href="https://github.com/Dev-jaque">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BreadcrumbsDev-jaque
+   <a href="https://github.com/dev-jaque">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Breadcrumbsdev-jaque
 &show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreadcrumbsDev-jaque
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Breadcrumbsdev-jaque
 &layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
